@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">高校宣讲信息</string>
+    <string name="title_section1">华中科技大学</string>
+    <string name="title_section2">武汉大学</string>
+    <string name="title_section3">武汉理工大学</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="message">目前暂时没有信息哦！</string>
+    <string name="previous">上一页</string>
+    <string name="next">下一页</string>
+    <string name="refresh">刷新</string>
+    <string name="more">更多</string>
+    <string name="company">公司：</string>
+    <string name="time">宣讲时间：</string>
+    <string name="address">宣讲地点：</string>
+
+</resources>
