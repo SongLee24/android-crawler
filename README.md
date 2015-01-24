@@ -11,7 +11,7 @@
 
 ##Introduction
 
-* My Github Blog: 《[Android网络爬虫程序（基于Jsoup）](http://songlee24.github.io/blog/2015/01/24/android-crawler/)》
+* 《[Android网络爬虫程序（基于Jsoup）](http://songlee24.github.io/blog/2015/01/24/android-crawler/)》
 
 ##Data Sources
 
